@@ -1,8 +1,10 @@
-package lession_02;
+package lesson_02;
 
 import java.util.Scanner;
-
+// if - Kiểm tra độc lập → có thể chạy nhiều cái
+// else if - Chọn 1 trong nhiều điều kiện, Chỉ chạy 1 block duy nhất
 public class IfElseStatement {
+
     public static void main(String[] args) {
         final int EXPECTED_TIME = 7;
 

@@ -1,8 +1,9 @@
-package lession_02;
+package lesson_02;
 
 import java.util.Scanner;
 
 public class MultipleIfElse {
+
     public static void main(String[] args) {
         // <18 || 18- 55 || >55
 

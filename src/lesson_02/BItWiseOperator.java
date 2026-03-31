@@ -1,6 +1,7 @@
-package lession_02;
+package lesson_02;
 
 public class BItWiseOperator {
+
     public static void main(String[] args) {
         // Evaluate
         if(method01() && method02()){

@@ -1,6 +1,7 @@
-package lession_02;
+package lesson_02;
 
 public class PostfixPrefix {
+
     public static void main(String[] args) {
         int a = 1;
         int b = 2;
